@@ -1,0 +1,2 @@
+# Python dependencies for Monero/Tor scripts
+cryptography>=41.0.0
